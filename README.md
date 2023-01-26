@@ -1,17 +1,29 @@
-### Hi there 👋
+<h1 align="center">I'm Aditya Sankhla. An Engineer.</h1>
+<!-- <h3 align="center">An Engineer and Computer Enthusiast.</h3> -->
 
-- 🙌 This is Aditya Sankhla, a Computer Science Sophomore from IIT Bhilai.
-- 📫 How to reach me: Let us connect on LinkedIn. Here's my [linkedin profile](https://in.linkedin.com/in/aditya-sankhla-6b9136225?trk=public_profile_samename-profile) :)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adismort14" alt="adismort14" /></a> </p>
 
-<!--
-**adismort14/adismort14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://github.com/adismort14](https://github.com/adismort14)
 
-Here are some ideas to get you started:
+- 📈 My skills include App Development and Full Stack Web Development.
 
+- 📖 Currently learning Machine Learning using Tensorflow and Image Processing.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 📫 Reach me at **adityasa@iitbhilai.ac.in**
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://in.linkedin.com/in/aditya-sankhla-6b9136225?trk=public_profile_samename-profile" target="blank"><img align="center" src="linkedin_icon.png" alt="adityasankhla" height="64" width="64" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,matlab,flutter,python,cpp,androidstudio,arduino,bash,blender,bootstrap,dart,django,firebase,github,ai,jquery,linux,md,mongodb,react,sqlite,svelte,vscode,ps,pr,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adismort14&show_icons=true&locale=en" alt="adismort14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adismort14&" alt="adismort14" /></p>
