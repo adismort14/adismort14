@@ -1,3 +1,4 @@
+
 <h1 align="center">I'm Aditya Sankhla. An Engineer.</h1>
 <!-- <h3 align="center">An Engineer and Computer Enthusiast.</h3> -->
 
@@ -24,6 +25,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adismort14&show_icons=true&locale=en" alt="adismort14" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=adismort14&show_icons=true&locale=en&theme=aura_dark" alt="adismort14" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adismort14&" alt="adismort14" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adismort14&theme=aura_dark" alt="adismort14" />
