@@ -21,7 +21,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,matlab,flutter,python,cpp,androidstudio,arduino,bash,blender,bootstrap,dart,django,firebase,github,ai,jquery,linux,md,mongodb,react,sqlite,svelte,vscode,ps,pr,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,matlab,supabase,flutter,python,cpp,androidstudio,arduino,bash,blender,bootstrap,dart,django,firebase,github,ai,jquery,linux,md,mongodb,react,sqlite,svelte,vscode,ps,pr,kubernetes,docker,c,vim" />
   </a>
 </p>
 
