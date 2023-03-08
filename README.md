@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adismort14](https://github.com/adismort14)
 
-- 📈 My skills include App Development and Full Stack Web Development.
+- 📈 My skills include Flutter App Development and Full Stack Web Development in MERN and Django framework.
 
 - 📖 Currently learning Machine Learning using Tensorflow and Image Processing.
 
