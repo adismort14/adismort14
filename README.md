@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/aditya-sankhla-6b9136225?trk=public_profile_samename-profile" target="blank"><img align="center" src="linkedin_icon.png" alt="adityasankhla" height="64" width="64" /></a>
+<a href="https://in.linkedin.com/in/adismort" target="blank"><img align="center" src="linkedin_icon.png" alt="adityasankhla" height="64" width="64" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
