@@ -2,7 +2,7 @@
 <h1 align="center">I'm Aditya Sankhla. An Engineer.</h1>
 <!-- <h3 align="center">An Engineer and Computer Enthusiast.</h3> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adismort14&column=7" alt="adismort14" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adismort14&column=9" alt="adismort14" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/adismort14](https://github.com/adismort14)
 
