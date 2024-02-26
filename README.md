@@ -4,11 +4,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adismort14&column=9" alt="adismort14" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/adismort14](https://github.com/adismort14)
+- 👨‍💻 All of my projects are available at [https://github.com/adismort14](https://github.com/adismort14) (duh.)
 
-- 📈 My skills include Flutter App Development and Full Stack Web Development in MERN and Django framework.
-
-- 📖 Currently learning Machine Learning using Tensorflow and Image Processing.
+- 📖 Currently building Scalable Systems and dabbling in Rust.
 
 - 📫 Reach me at **adityasa@iitbhilai.ac.in**
 
